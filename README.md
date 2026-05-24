@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Kirill</h1>
 
-<!--
-**Kirxel/Kirxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Python Backend Engineer
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,docker,redis,linux"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About me
+
+- 🔭 Building backend systems
+- 🌱 Learning system design
+- ⚡ Love clean architecture
+
+### 📊 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirxel&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirxel&layout=compact)

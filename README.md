@@ -44,7 +44,7 @@ Building scalable APIs, backend systems and clean architectures
 ### Currently Learning
 
 <p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=oracle,mssql,clickhouse"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=oracle,clickhouse"/>
 </p>
 
 ---

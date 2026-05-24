@@ -26,7 +26,7 @@ Building scalable APIs, backend systems and clean architectures
 ### Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,go,bash" />
+<img src="https://skillicons.dev/icons?i=python,go" />
 </p>
 
 ### Backend & Tools
@@ -50,14 +50,6 @@ Building scalable APIs, backend systems and clean architectures
 ---
 
 ## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kirxel&show_icons=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirxel&layout=compact"/>
-
-</p>
 
 <p align="center">
 
@@ -100,10 +92,4 @@ GitHub: https://github.com/Kirxel
 
 Telegram: @Kirill_13311
 
-</p>
-
----
-
-<p align="center">
-⚡ "First solve the problem, then write the code."
 </p>

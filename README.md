@@ -53,9 +53,9 @@ Building scalable APIs, backend systems and clean architectures
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kirxel&show_icons=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirxel&layout=compact"/>
 
 </p>
 

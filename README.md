@@ -32,19 +32,19 @@ Building scalable APIs, backend systems and clean architectures
 ### Backend & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker,linux,git,github,gitlab" />
 </p>
 
 ### Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,oracle,mssql,clickhouse" />
+<img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
 ### Currently Learning
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=kubernetes" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=oracle,mssql,clickhouse"/>
 </p>
 
 ---
@@ -61,7 +61,7 @@ Building scalable APIs, backend systems and clean architectures
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME"/>
+<img src="https://streak-stats.demolab.com?user=Kirxel"/>
 
 </p>
 
@@ -69,12 +69,13 @@ Building scalable APIs, backend systems and clean architectures
 
 ## 🔥 Current Focus
 
-- REST APIs
+- REST APIs & microservices
 - Backend architecture
 - High-performance services
-- Databases optimization
-- System design
+- Database optimization
+- PostgreSQL / Oracle / MSSQL / ClickHouse
 - Docker environments
+- System design
 - Learning Golang ecosystem
 
 ---

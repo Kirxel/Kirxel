@@ -38,7 +38,7 @@ Building scalable APIs, backend systems and clean architectures
 ### Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=postgres,oracle,mssql,clickhouse" />
 </p>
 
 ### Currently Learning
@@ -95,9 +95,9 @@ Building scalable APIs, backend systems and clean architectures
 
 <p align="left">
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Kirxel
 
-Telegram: @your_username
+Telegram: @Kirill_13311
 
 </p>
 
